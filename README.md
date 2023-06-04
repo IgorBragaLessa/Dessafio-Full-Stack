@@ -1,15 +1,14 @@
-**Contact Express.**
+**Contacts Express.**
 
-
-Este projeto é uma aplicação fullstack web, desenvolvida por mim, para cadastro de usuários e seus contatos.
+Essa é uma aplicação fullstack web, para cadastro de usuários e seus contatos.
 
 **Funcionalidades:**
 
 A aplicação possui as seguintes funcionalidades:
 
-- Cadastro de usuários com nome, e-mail, telefone e senha.
 - Login de usuários cadastrados.
-- Adição, edição e remoção de contatos para usuários logados.
+- Cadastro de usuários com nome, e-mail, telefone e senha.
+- Adição, remoção, e edição de contatos para usuários logados.
 - Visualização em tela de todos os contatos cadastrados pelo usuário logado.
 
 **Tecnologias:**
