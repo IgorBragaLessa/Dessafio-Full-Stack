@@ -7,7 +7,9 @@ Essa é uma aplicação fullstack web, para cadastro de usuários e seus contato
 A aplicação possui as seguintes funcionalidades:
 
 - Login de usuários cadastrados.
+- Login de usuários cadastrados.
 - Cadastro de usuários com nome, e-mail, telefone e senha.
+- Adição, remoção, e edição de contatos para usuários logados.
 - Adição, remoção, e edição de contatos para usuários logados.
 - Visualização em tela de todos os contatos cadastrados pelo usuário logado.
 
